@@ -11,4 +11,3 @@ This terraform project creates a VPC with some default components including:
 * EC2 instances in each subnet
 
 ![VPC Diagram](./vpc-diagram.svg)
-<img src="./vpc-diagram.svg">
